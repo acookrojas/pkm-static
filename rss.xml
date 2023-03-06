@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://pkm.ddev.site/">
+  <channel>
+    <title>PKM</title>
+    <link>https://pkm.ddev.site/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Gran prueba gran</title>
+  <link>https://pkm.ddev.site/node/1</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gran prueba gran&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 03/01/2023 - 19:21&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;**Hola** &lt;/p&gt;&lt;p&gt;buuu no hay markdown, de todas maneras la experiencia es nice :) &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Wed, 01 Mar 2023 22:21:00 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">1 at https://pkm.ddev.site</guid>
+    </item>
+
+  </channel>
+</rss>
